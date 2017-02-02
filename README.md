@@ -1,5 +1,5 @@
 # MTMenuButton
-Create easily menu button with back and close animation.
+Create easily menu button with back and close animation with dynamic button size adjust.
 MTMenuButton is written in Swift 3.0 and easy to use in project.
 
 ![BackgroundImage](https://github.com/manekdilip/MTMenuButton/blob/master/Images/MTMoreButton.gif)
