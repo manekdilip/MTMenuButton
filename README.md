@@ -8,7 +8,7 @@ MTMenuButton is written in Swift 3.0 and easy to use in project.
 
 ### Manually
 
-Clone or Download this Repo. Then simply drag the folder ```MTMenuButton``` to your Xcode project.
+Clone or Download this Repo. Then simply drag the class ```MTMenuButton.swift``` to your Xcode project.
 
 
 ###Simply way to integrate ```MTMenuButton```
